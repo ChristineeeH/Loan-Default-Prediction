@@ -1,6 +1,7 @@
 # Loan-Default-Prediction
 We use the loan dataset given by the Alibaba Tianchi website to construct several statistic models to make default predictions.
 All the codes can run with Python 3.11.3,matplotlib 3.7.1, numpy 1.24.3, pandas 2.1.3, scikit-learn  1.2.2, seaborn 0.13.0, plotnine 0.12.3.
+The dataset is downloaded from \url{https://tianchi.aliyun.com/dataset/140861}
 # Instruction
 The analysis process consists of three main parts, which are data preprocessing, data visualization, and model construction.
 # Data Preprocessing
